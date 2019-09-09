@@ -1,0 +1,6 @@
+module.exports = {
+  url: "https://gateway.watsonplatform.net/natural-language-understanding/api/",
+  apiKey: "2mDWPfQbntm-ddQfNdtvkhsaihd9079347)&Iskgdlsh3",
+  version: '2018-04-05',
+  express: 3000
+};
